@@ -1,0 +1,24 @@
+{
+  "name": "concurrent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An example of concurrency primitives",
+  "main": "nproxy.js",
+  "dependencies": {
+    "mc": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jsocol/concurrency"
+  },
+  "author": "James Socol <me@jamessocol.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jsocol/concurrency/issues"
+  },
+  "homepage": "https://github.com/jsocol/concurrency"
+}

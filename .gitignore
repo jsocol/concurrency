@@ -1,0 +1,8 @@
+*.py[co]
+*.swp
+.coverage
+*.egg-info
+build
+dist
+__pycache__
+node_modules
